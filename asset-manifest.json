@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.8a1ddd4d.css",
+    "main.js": "/project/static/js/main.bb55e583.js",
+    "static/media/15.webp": "/project/static/media/15.c5b709ffa9bf6d0336b9.webp",
+    "static/media/fa-solid-900.ttf": "/project/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/17.webp": "/project/static/media/17.d8054e1b685bfc975100.webp",
+    "static/media/fa-brands-400.ttf": "/project/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/2.jpg": "/project/static/media/2.d3a7de324b645ffee97a.jpg",
+    "static/media/slider-image-2.jpeg": "/project/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/project/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/project/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/project/static/media/error.d1c816124952392560da8de0e6c728b4.svg",
+    "static/media/10.webp": "/project/static/media/10.64bc3a43840fa21c734f.webp",
+    "static/media/masterCard.png": "/project/static/media/masterCard.f159334b9a769a1de7b0.png",
+    "static/media/no-internet-removebg-preview.png": "/project/static/media/no-internet-removebg-preview.ffe8b5e0a2b3e3cd72b5.png",
+    "static/media/fa-regular-400.ttf": "/project/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/app store.png": "/project/static/media/app store.10ae4e0db7a4d504f041.png",
+    "static/media/paypal.png": "/project/static/media/paypal.c5ad69fe375e5c26d47d.png",
+    "static/media/fa-regular-400.woff2": "/project/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/american-express.png": "/project/static/media/american-express.66f30910e3fe74d51465.png",
+    "static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.jpg": "/project/static/media/XCM_Manual_1533480_5305769_379x304_1X._SY304_CB616236518_.96a08320f0007d30af67.jpg",
+    "static/media/google play.png": "/project/static/media/google play.e2853540e0029197d5a5.png",
+    "static/media/1.jpg": "/project/static/media/1.d97d01f6b579324b1cd6.jpg",
+    "static/media/freshcart-logo.svg": "/project/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/project/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/project/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/project/index.html",
+    "main.8a1ddd4d.css.map": "/project/static/css/main.8a1ddd4d.css.map",
+    "main.bb55e583.js.map": "/project/static/js/main.bb55e583.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1ddd4d.css",
+    "static/js/main.bb55e583.js"
+  ]
+}
