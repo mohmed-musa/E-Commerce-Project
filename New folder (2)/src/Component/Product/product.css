@@ -1,0 +1,63 @@
+.heartList:active .fa-heart {
+  color: red;
+  scale: 1.2;
+}
+
+.fa-heart {
+  transition: 0.01s ease;
+}
+
+.main {
+  transition: 0.5s;
+}
+
+.cardo {
+  transition: 0.5s;
+}
+.cardo img {
+  transition: 0.5s cubic-bezier(0.57, 0.21, 0.69, 3.25);
+}
+.cardo img {
+  filter: drop-shadow(0 0 1px green);
+  transition: 0.5s cubic-bezier(0.57, 0.21, 0.69, 3.25);
+}
+.main:hover {
+  box-shadow: 0 0 0px 2px rgb(1, 151, 161);
+  border-radius: 10px;
+}
+.main .buto {
+  position: absolute;
+  top: 100%;
+  transition: 0.5s cubic-bezier(0.57, 0.21, 0.69, 3.25);
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.main:hover .buto {
+  top: 90%;
+}
+
+.icon {
+  transition: 0.5s;
+}
+
+.icon:hover {
+  color: rgb(1, 151, 161) !important;
+}
+
+.buto-center:hover {
+  transform: translateY(7px) !important;
+  background: green !important;
+  border: 1px solid white !important;
+}
+
+.fa-heart {
+  position: absolute;
+  left: 110%;
+  transition: 0.8s;
+}
+
+.main:hover .fa-heart {
+  left: 85%;
+  transform: rotateY(720deg);
+}

@@ -1,0 +1,18 @@
+.boxes{
+    filter: drop-shadow(0 0 3px black);
+    transition: .5s;
+}
+.boxess{
+    filter: drop-shadow(0 0 3px black);
+    transition: .5s;
+    
+}
+.boxess:hover{
+    filter: drop-shadow(0 0 5px #198754);
+    scale: 1.02;
+    backface-visibility: visible;
+transform: rotateY(360deg);
+
+}
+
+

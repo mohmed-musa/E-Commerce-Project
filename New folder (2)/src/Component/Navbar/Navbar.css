@@ -1,0 +1,42 @@
+.navbar-toggler:enabled #collapsibleNavId{
+display: block !important;
+}
+
+.nav-link:enabled #collapsibleNavId{
+    display: none !important;
+}
+
+
+.icon:hover{
+    color:rgb(1, 151, 161) !important
+  }
+  
+
+  .nav-link{
+    transition: .4s !important;
+    padding: 5px 10px !important;
+  }
+
+.nav-link:hover{
+    border-bottom: 1px solid green;
+    transition: .4s !important;
+    /* border-radius: 10px; */
+}
+
+.logout:hover{
+    color: white !important;
+    background-color: gold!important;
+    border-radius: 10px;
+    transition: .4s !important;
+    cursor: pointer !important;
+}
+
+
+
+
+.active{
+    color: white !important;
+    background-color: green !important;
+    border-radius: 10px;
+    transition: .8s cubic-bezier(.57,.21,.69,3.25) !important;
+}
